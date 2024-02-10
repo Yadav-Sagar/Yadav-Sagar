@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sagar Yadav
 - 👀 I’m interested in Coding and Machine Learning
-- 🌱 I’m currently learning Machine Learning 
+- 🌱 Currently learning Machine Learning 
 
 
 <!---
